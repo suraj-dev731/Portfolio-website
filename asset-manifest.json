@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio-website/static/css/main.6d7bb083.css",
+    "main.js": "/Portfolio-website/static/js/main.3cc084ca.js",
+    "static/media/portfolio-1.png": "/Portfolio-website/static/media/portfolio-1.de1ffff85dc633852bc8.png",
+    "static/media/portfolio-2.png": "/Portfolio-website/static/media/portfolio-2.872edef93b48dab7e809.png",
+    "static/media/portfolio-6.png": "/Portfolio-website/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-4.png": "/Portfolio-website/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-5.png": "/Portfolio-website/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/photo.png": "/Portfolio-website/static/media/photo.a296181bf3fb426fae44.png",
+    "static/media/portfolio-3.png": "/Portfolio-website/static/media/portfolio-3.a18b4626219f02362e1f.png",
+    "static/media/pracoda.png": "/Portfolio-website/static/media/pracoda.65a4d46699e04cd6ff09.png",
+    "static/media/linkdin.png": "/Portfolio-website/static/media/linkdin.26dacc48c68d55d3477b.png",
+    "static/media/nexito.jpg": "/Portfolio-website/static/media/nexito.58a169c6543c000bcf3d.jpg",
+    "static/media/ui-design.png": "/Portfolio-website/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/Portfolio-website/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Portfolio-website/index.html",
+    "main.6d7bb083.css.map": "/Portfolio-website/static/css/main.6d7bb083.css.map",
+    "main.3cc084ca.js.map": "/Portfolio-website/static/js/main.3cc084ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d7bb083.css",
+    "static/js/main.3cc084ca.js"
+  ]
+}
